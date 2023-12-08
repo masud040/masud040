@@ -6,11 +6,11 @@
 
 ## **📈 Current Stats**
 
-<div style="text-align: center">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=masud040&theme=shadow-purple" alt="GitHub Streak">
   </a>
-</div>
+</p>
 
 ## **📫 Reach me out**
 
