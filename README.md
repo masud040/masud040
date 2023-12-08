@@ -44,9 +44,3 @@
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite" >
   </a>
 </p>
-
-<p align="center">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" >
-  </a>
-</p>
