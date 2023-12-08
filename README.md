@@ -2,13 +2,17 @@
 
 ## **About me**
 
-#### _Hello,I’m Masud Rana, I am a Frontend Developer, also familiar with Backend.I have a strong passion for learning & implementing new web technologies and standards._
+### _Hello,I’m Masud Rana, I am a Frontend Developer, also familiar with Backend.I have a strong passion for learning & implementing new web technologies and standards._
 
 ## **👀 Current overview**
 
-##### 🔭 I’m currently learning many things Such as Nextjs, JavaScript and Advance,
+#### 🔭 I’m currently learning many things Such as Nextjs, JavaScript and Advance,
 
-##### 👯 I’m looking job to enhance my skill.
+#### 👯 I’m looking job to enhance my skill.
+
+#### 💬 Ask me about JavaScript, React.
+
+#### 🤔 I’m trying - To help people learn web development.
 
 ## **📈 Current Stats**
 
