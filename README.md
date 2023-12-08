@@ -1,13 +1,27 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masud040&theme=shadow-purple)](https://git.io/streak-stats)
+[![An old rock in the desert](https://raw.githubusercontent.com/masud040/masud040/main/Untitled.png)
 
-### **_Technologies that I know_**
+**📈 Current Stats**
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,tailwind,bootstrap,react,firebase&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=masud040&theme=shadow-purple" alt="GitHub Streak">
+  </a>
+</p>
 
-### **_Familiar with / Learning_**
+### **💻 Technologies that I know**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongo,tanstack&perline=3)](https://skillicons.dev)
+<div style="text-align: center;">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,firebase,nodejs,express,mongo&perline=3" alt="My Skills">
+  </a>
+</div>
 
-### **_Tools_**
+### **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,vite&perline=3)](https://skillicons.dev)
+<div style="text-align: center;">
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite&perline=3" alt="My Skills">
+  </a>
+</div>
