@@ -1,5 +1,9 @@
 ![An old rock in the desert](https://raw.githubusercontent.com/masud040/masud040/main/Untitled.png)
 
+## **About me**
+
+#### _Hello,I’m Masud Rana, I am a Frontend Developer, also familiar with Backend.I have a strong passion for learning & implementing new web technologies and standards._
+
 ## **📈 Current Stats**
 
 <div style="text-align: center">
@@ -7,8 +11,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=masud040&theme=shadow-purple" alt="GitHub Streak">
   </a>
 </div>
-
-### Hello, I am a Frontend Developer, also familiar with Backend.I have a strong passion for learning & implementing new web technologies and standards.
 
 ## **📫 Reach me out**
 
