@@ -1,4 +1,4 @@
-[![An old rock in the desert](https://raw.githubusercontent.com/masud040/masud040/main/Untitled.png)
+![An old rock in the desert](https://raw.githubusercontent.com/masud040/masud040/main/Untitled.png)
 
 **📈 Current Stats**
 
