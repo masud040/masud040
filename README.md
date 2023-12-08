@@ -4,6 +4,12 @@
 
 #### _Hello,I’m Masud Rana, I am a Frontend Developer, also familiar with Backend.I have a strong passion for learning & implementing new web technologies and standards._
 
+## **👀 Current overview**
+
+##### 🔭 I’m currently learning many things Such as Nextjs, JavaScript and Advance,
+
+##### 👯 I’m looking job to enhance my skill.
+
 ## **📈 Current Stats**
 
 <p align="center">
@@ -34,5 +40,3 @@
     <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite" >
   </a>
 </p>
-
-## **👀 Current overview**
