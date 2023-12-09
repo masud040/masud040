@@ -71,7 +71,7 @@ Password: asdfgh
 
 ### **Assignment Management (Online Study)**
 
-[Assignment Management](654cbd4fe3b58a14bfe89522--inquisitive-gecko-d64cb0.netlify.app)
+[Assignment Management](https://6549368f8aef333804f980fe--fabulous-sunburst-130e1e.netlify.app)
 
 <p>This is an online study site. any logged user can be view assignment, update assignment, and delete assignment. user can take the assignment and submit the assignment. finally user give the assignment marks and see her marks.</p>
 
