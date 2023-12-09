@@ -8,7 +8,7 @@
 
 #### 🔭 I’m currently learning many things Such as Nextjs, JavaScript and Advance,
 
-#### 👯 I’m looking job to enhance my skill.
+#### 👯 I’m looking for job to enhance my skill.
 
 #### 💬 Ask me about JavaScript, React.
 
