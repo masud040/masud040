@@ -77,6 +77,6 @@ Password: asdfgh
 
 ### **TechShopBD (Mobile and accessories)**
 
-[Assignment Management](https://657407d2648ed72ca8177249--warm-blini-6e9c08.netlify.app)
+[TechShopBD](https://657407d2648ed72ca8177249--warm-blini-6e9c08.netlify.app)
 
 <p>This project ecommerce based. user can see the product, add product, and add to cart product.</p>
