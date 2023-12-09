@@ -2,7 +2,7 @@
 
 ## **About me**
 
-### _Hello,I’m Masud Rana, I am a Frontend Developer, also familiar with Backend.I have a strong passion for learning & implementing new web technologies and standards._
+### Hello, I’m Masud Rana, I am a Frontend Developer, also familiar with Backend. I have a strong passion for learning & implementing new web technologies and standards.
 
 ## **👀 Current overview**
 
@@ -59,3 +59,24 @@
 </p>
 
 ## ** Projects**
+
+### **Apartment Mangement**
+
+[Apartment Management](656302e3fdb1c34864781917--super-torrone-00cc08.netlify.app)
+
+Admin-Email: rana@gmai.com <br>
+Password: asdfgh
+
+<p>The project is an online apartment management site. user can send a agreement request for rent a apartment, if admin accept this request then this user is member. member can pay her apartment rent and see payment details. Admin can manage users and agreement request, make announcement, manage coupon and see site the statistics.</p>
+
+### **Assignment Management (Online Study)**
+
+[Assignment Management](654cbd4fe3b58a14bfe89522--inquisitive-gecko-d64cb0.netlify.app)
+
+<p>This is an online study site. any logged user can be view assignment, update assignment, and delete assignment. user can take the assignment and submit the assignment. finally user give the assignment marks and see her marks.</p>
+
+### **TechShopBD (Mobile and accessories)**
+
+[Assignment Management](https://657407d2648ed72ca8177249--warm-blini-6e9c08.netlify.app)
+
+<p>This project ecommerce based. user can see the product, add product, and add to cart product.</p>
