@@ -22,7 +22,11 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+<p align="center">
+  <a >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" >
+  </a>
+</p>
 
 ## **📫 Reach me out**
 
