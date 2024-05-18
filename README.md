@@ -65,13 +65,13 @@
 [Tasty Twist](https://profound-torte-5af664.netlify.app)
 
 Seller-Email: masud@gmai.com <br>
-Password: asdfgh
+Password: asdfgh <br>
 Seller-Email: rana@gmai.com <br>
-Password: asdfgh
+Password: asdfgh <br>
 Seller-Email: rifat@gmai.com <br>
-Password: asdfgh
+Password: asdfgh <br>
 Admin-Email: abir@gmai.com <br>
-Password: asdfgh
+Password: asdfgh <br>
 
 <p>This is Food sales site like e-commerce. user can order food and tracking order. seller manage the order and manage restaurant data and see the overall restaurant sales details by chart. admin can  manage all restaurant, seller request and coupon. admin get a certain amount of porfit from the seller.</p>
 
