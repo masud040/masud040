@@ -62,7 +62,7 @@
 
 ### **Tasty Twist**
 
-[Tasty Twist](https://profound-torte-5af664.netlify.app)
+[Tasty Twist](https://tasty-twist-food.netlify.app)
 
 Seller-Email: masud@gmai.com <br>
 Password: asdfgh <br>
