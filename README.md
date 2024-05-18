@@ -60,6 +60,21 @@
 
 ## ** Projects**
 
+### **Tasty Twist**
+
+[Tasty Twist](https://profound-torte-5af664.netlify.app)
+
+Seller-Email: masud@gmai.com <br>
+Password: asdfgh
+Seller-Email: rana@gmai.com <br>
+Password: asdfgh
+Seller-Email: rifat@gmai.com <br>
+Password: asdfgh
+Admin-Email: abir@gmai.com <br>
+Password: asdfgh
+
+<p>This is Food sales site like e-commerce. user can order food and tracking order. seller manage the order and manage restaurant data and see the overall restaurant sales details by chart. admin can  manage all restaurant, seller request and coupon. admin get a certain amount of porfit from the seller.</p>
+
 ### **Apartment Mangement**
 
 [Apartment Management](https://656302e3fdb1c34864781917--super-torrone-00cc08.netlify.app)
