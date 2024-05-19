@@ -64,11 +64,13 @@
 
 [Tasty Twist](https://tasty-twist-food.netlify.app)
 
-Seller-Email: masud@gmai.com <br>
+Seller-Email: rana@gmail.com <br>
 Password: asdfgh <br>
-Seller-Email: rana@gmai.com <br>
+Seller-Email: masud@gmail.com <br>
 Password: asdfgh <br>
-Seller-Email: rifat@gmai.com <br>
+Seller-Email: rifat@gmail.com <br>
+Password: asdfgh <br>
+Seller-Email: rumana@gmail.com <br>
 Password: asdfgh <br>
 Admin-Email: abir@gmai.com <br>
 Password: asdfgh <br>
