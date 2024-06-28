@@ -79,7 +79,7 @@ Password: asdfgh <br>
 
 ### **Apartment Mangement**
 
-[Apartment Management](https://656302e3fdb1c34864781917--super-torrone-00cc08.netlify.app)
+[Apartment Management](https://apartment-solution.netlify.app)
 
 Admin-Email: rana@gmai.com <br>
 Password: asdfgh
