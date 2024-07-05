@@ -1,6 +1,4 @@
-<div style="width: 100vw;">
-  <img src="cover.gif" alt="Cover image" style="width: 100vw;">
-</div>
+![An old rock in the desert](cover.png)
 
 ## **About me**
 
