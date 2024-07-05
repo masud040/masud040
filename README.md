@@ -1,5 +1,5 @@
-<div align="center">
- <img src="cover.gif" alt="An old rock in the desert" style="width: 100%; height: auto;">
+<div style="width: 100vw; overflow: hidden;">
+  <img src="cover.gif" alt="An old rock in the desert" style="width: 100%; height: auto;">
 </div>
 
 ## **About me**
