@@ -1,4 +1,6 @@
-![An old rock in the desert](https://raw.githubusercontent.com/masud040/masud040/main/Untitled.png)
+<div align="center">
+ <img src="cover.gif" alt="An old rock in the desert" style="width: 100%; height: auto;">
+</div>
 
 ## **About me**
 
@@ -24,6 +26,7 @@
 
 <p align="center">
   <a >
+  
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" >
   </a>
 </p>
