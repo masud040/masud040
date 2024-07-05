@@ -1,5 +1,5 @@
 <div style="width: 100vw;">
-  <img src="cover.gif" alt="Cover image" style="width: 100%; height: auto;">
+  <img src="cover.gif" alt="Cover image" style="width: 100vw;">
 </div>
 
 ## **About me**
