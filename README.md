@@ -71,8 +71,6 @@ Seller-Email: masud@gmail.com <br>
 Password: asdfgh <br>
 Seller-Email: rifat@gmail.com <br>
 Password: asdfgh <br>
-Seller-Email: rumana@gmail.com <br>
-Password: asdfgh <br>
 Admin-Email: abir@gmai.com <br>
 Password: asdfgh <br>
 
