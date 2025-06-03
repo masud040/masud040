@@ -23,12 +23,9 @@
 </p>
 
 <p align="center">
-
-    <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud040" alt="GitHub Streak">
+  <a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud040" alt="GitHub Streak">
   </a>
-   
-
 </p>
 
 ## **📫 Reach me out**
