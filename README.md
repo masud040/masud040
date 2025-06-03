@@ -17,15 +17,17 @@
 ## **📈 Current Stats**
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats?user=masud040">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=masud040&theme=shadow-purple" alt="GitHub Streak">
   </a>
 </p>
 
 <p align="center">
   <a >
-  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud040" >
+    <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud040" alt="GitHub Streak">
+  </a>
+    <img src="" >
   </a>
 </p>
 
