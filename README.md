@@ -17,7 +17,7 @@
 ## **📈 Current Stats**
 
 <p align="center">
-  <a href="https://git.io/streak-stats?user=masud040">
+  <a href="#">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=masud040&theme=shadow-purple" alt="GitHub Streak">
   </a>
 </p>
