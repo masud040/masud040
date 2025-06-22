@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=masud040" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=masud040&theme=tokyonight" alt="GitHub Streak">
   </a>
 </p>
 
